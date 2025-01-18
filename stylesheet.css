@@ -1,0 +1,350 @@
+* {
+  font-family: "Cairo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 62;
+}
+
+#index{
+    background-image: url(masjid-pin.jpg);
+    background-size: cover;
+}
+
+#index .navbar{
+    overflow: hidden;
+    background-color: green;
+}
+#index .navbar a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#index img{
+    max-width: 10%;
+    height: auto;
+}
+
+#index h1{
+    text-align: center;
+    font-size: 64pt;
+}
+
+#index .top-part h3{
+    text-align: center;
+    font-size: 12pt;
+}
+
+#index .bottom-part{
+    text-align: right;
+    font-size: 12pt;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+  }
+
+#index .index-body{
+    font-size: 17px;
+    color: white;
+}
+
+index-body table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+index-body td, th{
+    text-align: center;
+    padding: 8px;
+}
+
+index-body tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+#index .index-body-lokasi{
+    background-color: black;
+}
+
+#index .index-body-lokasi .h1{
+    color: black;
+    font-size: 17px;
+    text-align: center;
+}
+
+#index .index-body-lokasi .p{
+    color: black;
+    font-size: 17px;
+    text-align: center;
+}
+
+/* laporan keuangan */
+
+#laporan-keuangan{
+    background-image: url(masjid-pin.jpg);
+    background-size: cover;
+}
+
+#laporan-keuangan .navbar{
+    overflow: hidden;
+    background-color: green;
+}
+#laporan-keuangan .navbar a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#laporan-keuangan img{
+    max-width: 10%;
+    height: auto;
+}
+
+#laporan-keuangan h1{
+    text-align: center;
+    font-size: 64pt;
+}
+
+#laporan-keuangan .top-part h3{
+    text-align: center;
+    font-size: 12pt;
+}
+
+#laporan-keuangan .bottom-part{
+    text-align: right;
+    font-size: 12pt;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+  }
+
+#laporan-keuangan #body-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#laporan-keuangan td, #laporan-keuangan th {
+    border: 2px solid #ddd;
+    padding: 8px;
+}
+
+#laporan-keuangan tr:nth-child(even){background-color: #f2f2f2}
+
+#laporan-keuangan tr:hover(even){background-color: #ddd}
+
+#laporan-keuangan th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+/* kalendar kegiatan */
+
+
+#kalendar-kegiatan{
+    background-image: url(masjid-pin.jpg);
+    background-size: cover;
+}
+
+#kalendar-kegiatan .navbar{
+    overflow: hidden;
+    background-color: green;
+}
+#kalendar-kegiatan .navbar a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#kalendar-kegiatan img{
+    max-width: 10%;
+    height: auto;
+}
+
+#kalendar-kegiatan h1{
+    text-align: center;
+    font-size: 64pt;
+}
+
+#kalendar-kegiatan .top-part h3{
+    text-align: center;
+    font-size: 12pt;
+}
+
+#kalendar-kegiatan .bottom-part{
+    text-align: right;
+    font-size: 12pt;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+  }
+
+  #kalendar-kegiatan #body-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#kalendar-kegiatan td, #kalendar-kegiatan th {
+    border: 2px solid #ddd;
+    padding: 8px;
+}
+
+#kalendar-kegiatan tr:nth-child(even){background-color: #f2f2f2}
+
+#kalendar-kegiatan tr:hover(even){background-color: #ddd}
+
+#kalendar-kegiatan th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+/* FAQ */
+
+#FAQ{
+    background-image: url(masjid-pin.jpg);
+    background-size: cover;
+}
+
+#FAQ .navbar{
+    overflow: hidden;
+    background-color: green;
+}
+#FAQ .navbar a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#FAQ img{
+    max-width: 10%;
+    height: auto;
+}
+
+#FAQ h1{
+    text-align: center;
+    font-size: 64pt;
+}
+
+#FAQ .top-part h3{
+    text-align: center;
+    font-size: 12pt;
+}
+
+#FAQ .bottom-part{
+    text-align: right;
+    font-size: 12pt;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+  }
+
+#FAQ .freq-questions{
+    background-color: white;
+  }
+
+#FAQ .freq-questions{
+    padding-left: 150px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+
+#FAQ .freq-questions p{
+    border: 5px solid;
+}
+
+/* about us */
+
+
+#about-us{
+    background-image: url(masjid-pin.jpg);
+    background-size: cover;
+}
+
+#about-us .navbar{
+    overflow: hidden;
+    background-color: green;
+}
+#about-us .navbar a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#about-us img{
+    max-width: 10%;
+    height: auto;
+}
+
+#about-us h1{
+    text-align: center;
+    font-size: 64pt;
+}
+
+#about-us .top-part h3{
+    text-align: center;
+    font-size: 12pt;
+}
+
+#about-us .bottom-part{
+    text-align: right;
+    font-size: 12pt;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+  }
+
+#about-us .desc{
+    background-color: white;
+    width: 100%;
+}
+#about-us h2{
+    text-align: center;
+    font-size: 22px;
+}
+#about-us p{
+    text-align: center;
+    font-size: 18px;
+}
